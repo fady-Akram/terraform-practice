@@ -1,0 +1,5 @@
+.terraform/*
+*.tfstate
+*.tfstate.*
+userdata.sh
+jen.pem
